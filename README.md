@@ -1,3 +1,2 @@
-# helpers
-
-DO NOT COPY!
+# helper
+Another old site I made.
